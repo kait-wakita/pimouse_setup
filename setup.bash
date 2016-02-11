@@ -1,4 +1,5 @@
 #!/bin/bash -xve
+# written by toshi
 
 exec 2> /tmp/setup.log
 
